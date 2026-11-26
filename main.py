@@ -1,13 +1,14 @@
 # One-Star Review of Something Essential
 #
-# This entry prints exactly one fixed line to stdout.
-# The output never changes between runs: no input is read,
-# no randomness is used, and no arguments are required.
+# A one-star review works when the complaint is specific and
+# the grievance escalates: sleep is praised as a product,
+# then the reviewer lists what actually arrived, ending on
+# a vivid image of a 3 a.m. staring contest with the ceiling.
+# Rating the thing everybody needs, and grading its customer
+# service instead of the thing itself, is the twist here.
+# The output stays fixed: one print, no input, no randomness,
+# so the result is identical on every machine and every run.
 # Run it with: python3 main.py
-#
-# The output is the entry itself: one one-star review.
 # Nothing else is printed, and the process exits normally.
-# The line is kept byte-identical on purpose so the result
-# is reproducible on every machine and every run.
-# One fixed one-star review on stdout.
-print("One star. The sun: rises too early, no snooze button, shines directly into my eyes every single morning. Would not recommend.")
+# Four hours, one headache, one ceiling: a fair summary.
+print("One star. Sleep: great product, terrible customer service \u2014 I asked for eight hours and got four, a headache, and a 3 a.m. staring contest with the ceiling.")
